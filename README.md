@@ -1,2 +1,7 @@
 # Smart_CIT
-cs1320 project for smart cit
+
+Install packages: ```npm install```
+
+Run server: ```node server.js```
+
+Run client: ```npm start```
