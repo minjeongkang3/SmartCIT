@@ -16,11 +16,11 @@
     "react-dom": "^16.8.4",
     "react-loader-spinner": "^3.1.5",
     "react-router-dom": "^4.4.0",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "react-transition-group": "^2.6.1",
     "react-visjs-timeline": "^1.5.0",
     "reactstrap": "^7.1.0",
-    "sqlite3": "^4.0.6",
+    "sqlite3": "^4.2.0",
     "vis": "^4.21.0"
   },
   "scripts": {
